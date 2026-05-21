@@ -7,7 +7,7 @@ Analys av orbital pålitlighet, uppskjutningstakt och världskraft baserat på J
 ### 1. Installera Python paketen
 
 ```
-py -m pip install -r requirements.txt
+pip install -r requirements.txt
 
 ```
 
