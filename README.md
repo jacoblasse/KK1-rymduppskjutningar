@@ -1,4 +1,4 @@
-# KK1 Rymduppskjutningar 1957–2026
+# KK1 Rymduppskjutningar 1957-2026
 
 Analys av orbital pålitlighet, uppskjutningstakt och världskraft baserat på Jonathan McDowells GCAT-katalog https://planet4589.org/space/gcat/.
 
