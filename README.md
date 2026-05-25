@@ -17,6 +17,7 @@ Hämta dessa två filer och skapa mappen `dataset/` och placera dom i den.
 
 - `satcat.tsv` - alla satelliter, direkt länk här https://planet4589.org/space/gcat/tsv/cat/satcat.tsv
 - `launch.tsv` - alla uppskjutningar, direkt länk här https://planet4589.org/space/gcat/tsv/launch/launch.tsv
+- `site.tsv` - alla sites, direkt länk här. https://planet4589.org/space/gcat/tsv/tables/sites.tsv
 
 ### 3. Kör notebooken
 
